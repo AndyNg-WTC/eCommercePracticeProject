@@ -11,7 +11,7 @@ Currently we have the following environments:
 
 ## Branches
 
-Within the eCommerce Practice Project Repository, there are three branches: 
+Within the eCommerce Practice Project Repository, there are three core branches: 
 
 ![](branches.png)
 
